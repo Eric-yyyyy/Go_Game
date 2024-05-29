@@ -1,0 +1,3 @@
+TotalMoves: 3
+Stone: 10,9, Color: WHITE, MoveNumber: 2
+Stone: 9,9, Color: BLACK, MoveNumber: 1
